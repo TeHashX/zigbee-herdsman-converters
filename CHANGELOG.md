@@ -1,5 +1,12 @@
 # Changelog
 
+## [19.37.3](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.37.2...v19.37.3) (2024-05-09)
+
+
+### Bug Fixes
+
+* Fix electrical measurements not working for  `_TZ3000_cehuw1lw` with swBuilId `1.0.5` ([#7482](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7482)) ([4182889](https://github.com/Koenkk/zigbee-herdsman-converters/commit/4182889448e29e1bcf8e4aae961fe5dea0fa0543))
+
 ## [19.37.2](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.37.1...v19.37.2) (2024-05-09)
 
 
